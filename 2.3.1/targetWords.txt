@@ -6,3 +6,8 @@ cat
 cats
 kitten
 kitty
+furry
+fuzzy
+animal
+animals
+pet
